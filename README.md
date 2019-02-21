@@ -2,9 +2,9 @@
 
 # Despolitizador
 
-![Travis](https://img.shields.io/travis/LFeh/despolitizador.svg)
-[![license](https://img.shields.io/github/license/LFeh/despolitizador.svg)](./license.md)
-[![GitHub contributors](https://img.shields.io/github/contributors/LFeh/despolitizador.svg)](https://github.com/LFeh/despolitizador/graphs/contributors)
+![Travis](https://img.shields.io/travis/felipefialho/despolitizador.svg)
+[![license](https://img.shields.io/github/license/felipefialho/despolitizador.svg)](./license.md)
+[![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/despolitizador.svg)](https://github.com/felipefialho/despolitizador/graphs/contributors)
 
 > To translate political language for people's language
 
@@ -12,7 +12,7 @@
 
 ## Add new words
 
-It is simple, you need to access the [`src/library.json`](https://github.com/LFeh/despolitizador/edit/master/src/library.json), add the new word and submit a pull request. 
+It is simple, you need to access the [`src/library.json`](https://github.com/felipefialho/despolitizador/edit/master/src/library.json), add the new word and submit a pull request. 
 
 Example:
 
@@ -29,7 +29,7 @@ This project uses Pug, Stylus and Webpack.
 
 ```sh
 # Clone this repository
-$ git clone git@github.com:LFeh/despolitizador.git
+$ git clone git@github.com:felipefialho/despolitizador.git
 $ cd despolitizador
 
 # install dependencies
@@ -48,7 +48,7 @@ For grid system uses [Autoprefixer](https://github.com/postcss/autoprefixer) to 
 
 ### Code Standards
 
-This project uses my own [Coding Style](https://github.com/LFeh/coding-style) as code reference.
+This project uses my own [Coding Style](https://github.com/felipefialho/coding-style) as code reference.
 
 To help you, this project has a `npm run fix` command to fix all eslint errors.
 
