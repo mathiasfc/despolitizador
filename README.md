@@ -2,7 +2,7 @@
 
 # Despolitizador
 
-![Travis](https://img.shields.io/travis/felipefialho/despolitizador.svg)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a0990c78-c967-47c2-b9ff-562b477324f7/deploy-status)](https://app.netlify.com/sites/despolitizador/deploys)
 [![license](https://img.shields.io/github/license/felipefialho/despolitizador.svg)](./license.md)
 [![GitHub contributors](https://img.shields.io/github/contributors/felipefialho/despolitizador.svg)](https://github.com/felipefialho/despolitizador/graphs/contributors)
 
@@ -58,7 +58,6 @@ To help you, this project has a `npm run fix` command to fix all eslint errors.
 - `npm run build`: run all production tasks create a `dist` folder to deploy
 - `npm run lint`: lint javascript and css
 - `npm run fix`: command to fix all eslint errors
-- `npm run deploy`: run all tasks to build and deploy on gh-pages
 
 ## Credits
 
